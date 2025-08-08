@@ -5,7 +5,24 @@
 ## Goals
 
 * Create a dynamic matrix to show amounts for show Actual, Budget and Forecast scenarios for teach accounting period of the fiscal year.
+  
 * Create visuals to interpret the financial performance
+
+* Analyzed KPIs:
+- Revenue
+- Cost of Sales
+- Operating Expenses
+- Gross Profit
+- Net Profit
+
+* Accounting Scenarios:
+- Actual
+- Budget
+- Forecast
+
+* Fiscal Years:
+- 2023
+-2024
 
 ## Tools
 
