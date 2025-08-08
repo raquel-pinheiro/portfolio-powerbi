@@ -8,21 +8,22 @@
   
 * Create visuals to interpret the financial performance
 
+## Data
 * Analyzed KPIs:
-- Revenue
-- Cost of Sales
-- Operating Expenses
-- Gross Profit
-- Net Profit
+1. Revenue
+2. Cost of Sales
+3. Operating Expenses
+4. Gross Profit
+5. Net Profit
 
 * Accounting Scenarios:
-- Actual
-- Budget
-- Forecast
+1. Actual
+2. Budget
+3. Forecast
 
 * Fiscal Years:
-- 2023
--2024
+1. 2023
+2. 2024
 
 ## Tools
 
